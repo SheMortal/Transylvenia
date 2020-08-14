@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Transylvenia/static/css/main.3dd3e725.chunk.css",
+    "main.js": "/Transylvenia/static/js/main.38486674.chunk.js",
+    "main.js.map": "/Transylvenia/static/js/main.38486674.chunk.js.map",
+    "runtime-main.js": "/Transylvenia/static/js/runtime-main.5dc5aa85.js",
+    "runtime-main.js.map": "/Transylvenia/static/js/runtime-main.5dc5aa85.js.map",
+    "static/js/2.901ab7ef.chunk.js": "/Transylvenia/static/js/2.901ab7ef.chunk.js",
+    "static/js/2.901ab7ef.chunk.js.map": "/Transylvenia/static/js/2.901ab7ef.chunk.js.map",
+    "index.html": "/Transylvenia/index.html",
+    "precache-manifest.24b8dea318a021946ca178e64b1b978b.js": "/Transylvenia/precache-manifest.24b8dea318a021946ca178e64b1b978b.js",
+    "service-worker.js": "/Transylvenia/service-worker.js",
+    "static/css/main.3dd3e725.chunk.css.map": "/Transylvenia/static/css/main.3dd3e725.chunk.css.map",
+    "static/js/2.901ab7ef.chunk.js.LICENSE.txt": "/Transylvenia/static/js/2.901ab7ef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Transylvenia/static/media/hotel-transylvania-poster.352d4f2b.jpg",
+    "static/media/details-2.jpeg": "/Transylvenia/static/media/details-2.fdec0371.jpeg",
+    "static/media/details-3.jpeg": "/Transylvenia/static/media/details-3.e3df4b6e.jpeg",
+    "static/media/details-4.jpeg": "/Transylvenia/static/media/details-4.31d3c23f.jpeg",
+    "static/media/loading-arrow.gif": "/Transylvenia/static/media/loading-arrow.e9ea7394.gif",
+    "static/media/logo.svg.jpeg": "/Transylvenia/static/media/logo.svg.88a79d19.jpeg",
+    "static/media/room-1.jpg": "/Transylvenia/static/media/room-1.c4137773.jpg",
+    "static/media/room-1.jpeg": "/Transylvenia/static/media/room-1.e928a5c4.jpeg",
+    "static/media/room-12.jpg": "/Transylvenia/static/media/room-12.47b2bf9f.jpg",
+    "static/media/room-13.jpg": "/Transylvenia/static/media/room-13.034326e8.jpg",
+    "static/media/room-19.jpg": "/Transylvenia/static/media/room-19.c58fe357.jpg",
+    "static/media/room-2.jpg": "/Transylvenia/static/media/room-2.9cd48593.jpg",
+    "static/media/room-3.jpg": "/Transylvenia/static/media/room-3.12e1016b.jpg",
+    "static/media/room-4.jpg": "/Transylvenia/static/media/room-4.69d9adc2.jpg",
+    "static/media/room-5.png": "/Transylvenia/static/media/room-5.a3ddeda0.png",
+    "static/media/room-6.png": "/Transylvenia/static/media/room-6.f2e858f0.png",
+    "static/media/room-7.jpg": "/Transylvenia/static/media/room-7.c32cd34d.jpg",
+    "static/media/room-8.jpeg": "/Transylvenia/static/media/room-8.7aebf0c1.jpeg",
+    "static/media/room-9.jpg": "/Transylvenia/static/media/room-9.410a8592.jpg",
+    "static/media/room-presi.jpg": "/Transylvenia/static/media/room-presi.5e1d4a0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc5aa85.js",
+    "static/js/2.901ab7ef.chunk.js",
+    "static/css/main.3dd3e725.chunk.css",
+    "static/js/main.38486674.chunk.js"
+  ]
+}
